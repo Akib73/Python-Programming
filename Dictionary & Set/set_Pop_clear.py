@@ -1,0 +1,8 @@
+s=set()
+s.add(1)
+s.add(2)
+s.add("Akib")
+s.add(99.5)
+s.add("Akib")
+print(s)
+print(s.pop ())
